@@ -16,3 +16,11 @@ Personal Portfolio Website – Designed and developed a personal website using H
 - Proficient Coding Languages
 - Projects section with brief descriptions and links
 - Contact section with email and social links
+
+## Author
+- Name: Reia Baid
+- LinkedIn: [[https://linkedin.com/in/reia-baid](https://linkedin.com/in/reia-baid)](https://www.linkedin.com/in/reia-baid-44a7a9324/)
+- Email: reiab1101@gmail.com
+
+## License
+This project is open-source and available for anyone to use or modify.
